@@ -14,7 +14,7 @@ Part of the NodeJS course by Jonas Schmedtmann. The only difference being that t
 - Used bcrypt to encrypt passwords and implemented features to reset passwords by sending a security token via mail
 
 
-## Features of the Appp
+## Features of the App
 - Users can create accounts and buy Tours
 - There are three types of Users - **Admin**, **Lead-Guide**, **Guide** and **User**
 - Users can buy any tour and write a review and give a rating to the Tours they have purchased
