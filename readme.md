@@ -1,5 +1,6 @@
 # Natours - An Online Tour Booking Platform
 A fully fledged web application made using MERN Stack. 
+Site is live at [here](https://ayushm-natours.netlify.app/#/home)
 
 Part of the NodeJS course by Jonas Schmedtmann. The only difference being that this project has used React in frontend instead of Express Templates
 
